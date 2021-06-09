@@ -1,0 +1,7 @@
+const readlineSync = require("readline-sync")
+let name = readlineSync.question("What is your name ?")
+let age = readlineSync.question("What is your age ? ")
+let city = readlineSync.question("Where do you live? ")
+let food = readlineSync.question("what is your favorite food? ")
+let hobby = readlineSync.question("What is your hobbies")
+console.log("This is the story of " + name +" he is " + age +" and he live in " + city +" he love eat " +food +" and he love " +hobby )

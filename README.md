@@ -3,3 +3,10 @@
 
 ## Language Use 
 >Javascript
+
+## What i learned
+>variable
+>arrays
+>functions
+>object
+>class
